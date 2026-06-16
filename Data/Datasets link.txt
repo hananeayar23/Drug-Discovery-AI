@@ -1,0 +1,15 @@
+Dataset BACE (MoleculeNet)
+
+Source officielle :
+https://moleculenet.org/datasets-1
+
+Article scientifique :
+https://pubs.rsc.org/en/content/articlelanding/2018/sc/c7sc02664a
+
+Dataset DAVIS (Drug-Target Affinity)
+
+Source officielle du benchmark utilisé par DeepDTA :
+https://github.com/hkmztrk/DeepDTA
+
+Article d'origine du dataset :
+https://www.nature.com/articles/nbt.1990
